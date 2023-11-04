@@ -28,6 +28,7 @@
 body {
   font-family: var(--primary-font);
   background-color: var(--bg-white);
+  overflow-x: hidden;
 }
 a {
   text-decoration: none;
